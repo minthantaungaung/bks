@@ -1,0 +1,23 @@
+# Build artifacts
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# IDE settings
+.vscode/
+.vs/
+.idea/
+
+# Logs
+*.log
+
+# Dependency cache
+.npm/
+node_modules/
+
+# Sensitive files
+appsettings.Development.json
+appsettings.Local.json
